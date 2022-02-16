@@ -6,7 +6,7 @@ I denna labb ska ni arbeta i grupper om 2 personer för att tillsammans </br> pr
 ## Uppgiftsbeskrivning
 
 Varje team ska producera en lathund med totalt 60 git-kommandon.</br>
-Ett git-kommando kan vara enkelt tex.: `git log` eller mer avancerat och specifikt tex. `git checkout -b development`. </b>
+Ett git-kommando kan vara enkelt tex.: `git log` eller mer avancerat och specifikt tex. `git checkout -b development`. Varje kommando ska ha en kort beskrivning på **svenska** över vad kommandot gör och när det kan användas.</br>
 Varje team får själva välja vilket av följande format man vill göra denna lathund:
 * HTML
 * MarkDown
