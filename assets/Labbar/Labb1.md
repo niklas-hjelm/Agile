@@ -17,7 +17,7 @@ Varje team får själva välja vilket av följande format man vill göra denna l
 Via följande länk kan ni skapa era github repositories från en template jag satt upp [GitHub Classroom](https://classroom.github.com/a/vpk2lsnb).</br> Väl där ska ni välja er själva ifrån listan och sedan ett team tillsammans med den/de personer som står listade i samma team i [detta](./../files/grupperLabb1.pdf) dokummentet.</br>
 
 ## Utförandebeskrivning
-*  Ni ska inom gruppen bestämma er för en lista avkommandon och spara dessa i en textfil i branchen `main`
+*  Ni ska inom gruppen bestämma er för en lista av kommandon och spara dessa i en textfil i branchen `main`
 *  Skapa sedan en fil som ni ska lägga till alla kommandon i. (En fil av det format ni valt från listan ovan.)
 * I erat repo ska ni skapa en branch som heter `development` och sedan ifrån den skapa var sin personlig branch. Ex: `git checkout -b niklas-dev`</br>
 * Dela sedan upp den totala listan av git-kommandon och spara en txt-fil i eran personliga branch med era kommandon.
