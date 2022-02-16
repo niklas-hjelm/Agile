@@ -34,7 +34,7 @@ Efter detta förarbete är gjort:
 * Samtliga steg är utförda enligt beskrivningen.
 ### Krav för VG:
 * Man har tillsammans lyckats lösa eventuella problem inom teamet.
-* En textfil av valfritt format (eller pdf). Som innehåller alla git-kommandon man använt. _För kommandon som misslyckats ska en tillhörande beskrivning om vad som gick fel och hur man löste det finnas med._
+* En textfil av valfritt format (eller pdf). Som innehåller alla git-kommandon man använt under arbetet. _För kommandon som misslyckats ska en tillhörande beskrivning om vad som gick fel och hur man löste det finnas med._
 * Inlämning före deadline (Lyckas man inte kommer en möjlighet till komplettering 2 veckor efter deadline med ny uppgift.)
 
 
