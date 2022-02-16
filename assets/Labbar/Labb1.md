@@ -10,7 +10,7 @@ Ett git-kommando kan vara enkelt tex.: `git log` eller mer avancerat och specifi
 Varje team får själva välja vilket av följande format man vill göra denna lathund:
 * HTML
 * MarkDown
-* XMl
+* XML
 * CSV
 * JSON
 
